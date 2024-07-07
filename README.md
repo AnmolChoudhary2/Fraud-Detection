@@ -55,10 +55,6 @@ This project focuses on analyzing transaction data to identify patterns and anom
    ```bash
    git clone https://github.com/AnmolChoudhary2/Fraud-Detection
    ```
-2. **Install Dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. **Run the Jupyter Notebook or Python Script:**
+2. **Run the Jupyter Notebook or Python Script:**
    Open and run the notebook or script provided in this repository to reproduce the analysis and predictions.
 
